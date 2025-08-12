@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  /* theme colors */
+  --color-llc-blue: #d8ebfd;
+  --color-llc-yellow: #ffe9a6;
+  --color-llc-dark-blue: #0060de;
+
+  /* theme fonts */
+  --font-poppins: "Poppins", sans-serif;
+
+  /* box shadow */
+  --shadow-custom: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
+}
