@@ -45,7 +45,7 @@
 			</div>
 		</div>
 		
-		<h3>This is our conflict branch.</h3>
+		<h3>This is our master branch.</h3>
 			
 	</body>
 </html>
