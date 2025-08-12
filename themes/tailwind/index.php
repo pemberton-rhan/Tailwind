@@ -44,6 +44,8 @@
 				</div>
 			</div>
 		</div>
+		
+		<h3>This is our conflict branch.</h3>
 			
 	</body>
 </html>
